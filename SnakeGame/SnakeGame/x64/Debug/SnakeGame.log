@@ -1,0 +1,7 @@
+﻿  Water.cpp
+c:\users\klaus\source\repos\snakegame\snakegame\water.cpp(21): warning C4305: '+=': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  SnakeGame.vcxproj -> C:\Users\klaus\source\repos\SnakeGame\x64\Debug\SnakeGame.exe
